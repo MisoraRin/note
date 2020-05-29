@@ -10,7 +10,7 @@
     "Word count": true,
     "Slides": true
   },
-  "isSidebarCollapsed": true,
+  "isSidebarCollapsed": false,
   "isRightSidedockCollapsed": false,
   "lastOpenSidebarTab": "File explorer",
   "lastOpenRightSidedockTab": "Backlinks",
@@ -30,8 +30,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "离散型随机变量.md",
-            "mode": "source"
+            "file": "概率论/随机过程.md",
+            "mode": "preview"
           }
         }
       }
