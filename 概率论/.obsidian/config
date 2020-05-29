@@ -11,7 +11,7 @@
     "Tag pane": true,
     "Page preview": true
   },
-  "isSidebarCollapsed": false,
+  "isSidebarCollapsed": true,
   "isRightSidedockCollapsed": true,
   "lastOpenSidebarTab": "File explorer",
   "lastOpenRightSidedockTab": "Backlinks",
@@ -23,7 +23,7 @@
     "direction": "vertical",
     "children": [
       {
-        "id": "40e86213dc8bc9d9",
+        "id": "6d20cd57fce464c6",
         "type": "leaf",
         "dimension": null,
         "active": true,
@@ -31,8 +31,22 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "随机过程.md",
+            "file": "随机过程的数字特征.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "38bf118f74df9198",
+        "type": "leaf",
+        "dimension": null,
+        "active": false,
+        "master": "",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "随机过程的数字特征.md",
+            "mode": "preview"
           }
         }
       }
@@ -43,5 +57,9 @@
   "foldHeading": true,
   "foldIndent": true,
   "newFileLocation": "current",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "lastOpenFiles": [
+    "随机过程的数字特征.md",
+    "随机过程的统计描述.md"
+  ]
 }
