@@ -1,0 +1,50 @@
+{
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true,
+    "Slides": true
+  },
+  "isSidebarCollapsed": true,
+  "isRightSidedockCollapsed": false,
+  "lastOpenSidebarTab": "File explorer",
+  "lastOpenRightSidedockTab": "Backlinks",
+  "theme": "obsidian",
+  "workspaceLayout": {
+    "id": "13df9ba0336b76ae",
+    "type": "split",
+    "dimension": null,
+    "direction": "vertical",
+    "children": [
+      {
+        "id": "4253464d2087aa6e",
+        "type": "leaf",
+        "dimension": null,
+        "active": true,
+        "master": "",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "离散型随机变量.md",
+            "mode": "source"
+          }
+        }
+      }
+    ]
+  },
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "lastOpenFiles": [
+    "离散型随机变量.md",
+    "概率论/随机过程.md",
+    "数据库/数据库作业/第九章.md"
+  ]
+}

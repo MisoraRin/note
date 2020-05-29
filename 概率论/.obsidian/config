@@ -1,0 +1,39 @@
+{
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true
+  },
+  "isSidebarCollapsed": true,
+  "isRightSidedockCollapsed": true,
+  "lastOpenSidebarTab": "File explorer",
+  "lastOpenRightSidedockTab": "Backlinks",
+  "theme": "obsidian",
+  "workspaceLayout": {
+    "id": "07a9972c58bd584b",
+    "type": "split",
+    "dimension": null,
+    "direction": "vertical",
+    "children": [
+      {
+        "id": "40e86213dc8bc9d9",
+        "type": "leaf",
+        "dimension": null,
+        "active": true,
+        "master": "",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "随机过程.md",
+            "mode": "source"
+          }
+        }
+      }
+    ]
+  }
+}
